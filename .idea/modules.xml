@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TempretureConverterTool.iml" filepath="$PROJECT_DIR$/TempretureConverterTool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemperatureConverterTool.iml" filepath="$PROJECT_DIR$/TemperatureConverterTool.iml" />
     </modules>
   </component>
 </project>

@@ -2,7 +2,7 @@
   <artifact type="jar" name="TempretureConverterTool:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/TempretureConverterTool_jar</output-path>
     <root id="archive" name="TempretureConverterTool.jar">
-      <element id="module-output" name="TempretureConverterTool" />
+      <element id="module-output" name="TemperatureConverterTool" />
       <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-19/lib/javafx-swt.jar" path-in-jar="/" />
       <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-19/lib/javafx.web.jar" path-in-jar="/" />
       <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-19/lib/javafx.base.jar" path-in-jar="/" />
